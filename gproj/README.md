@@ -1,7 +1,7 @@
 ## Technology notes
 - React
 - React router 4
-- yarn (not npm) 
+- yarn (not npm)
 
 ## Some commands
 yarn start
